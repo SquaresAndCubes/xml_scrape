@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<setlists>
+<setlist id="3e1c9e3" versionId="237748cf" eventDate="31-12-2017" lastUpdated="2018-03-01T18:17:28.000+0000">
+        <artist mbid="8d07ac81-0b49-4ec3-9402-2b8b479649a2" tmid="806111" name="Sound Tribe Sector 9" sortName="Sound Tribe Sector 9" disambiguation="STS9">
+            <url>https://www.setlist.fm/setlists/sound-tribe-sector-9-7bd69e40.html</url>
+        </artist>
+        <venue id="63d63667" name="The Warfield">
+            <city id="5391959" name="San Francisco" state="California" stateCode="CA">
+                <coords lat="37.775" long="-122.419"/>
+                <country code="US" name="United States"/>
+            </city>
+            <url>https://www.setlist.fm/venue/the-warfield-san-francisco-ca-usa-63d63667.html</url>
+        </venue>
+        <sets>
+            <set name="first set">
+                <song name="EHM"/>
+                <song name="Inspire Strikes Back"/>
+                <song name="Totem"/>
+                <song name="Looking Back On Earth"/>
+                <song name="Hidden Hand, Hidden Fist">
+                    <info>&gt;</info>
+                </song>
+                <song name="Shakedown Street">
+                    <cover mbid="6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6" tmid="735200" name="Grateful Dead" sortName="Grateful Dead" disambiguation="">
+                        <url>https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html</url>
+                    </cover>
+                    <info>&gt;</info>
+                </song>
+                <song name="Hidden Hand, Hidden Fist"/>
+                <song name="Worry No More">
+                    <info>&gt;</info>
+                </song>
+                <song name="Enceladus">
+                    <info>&gt;</info>
+                </song>
+                <song name="Worry No More"/>
+            </set>
+            <set name="second set">
+                <song name="Presence of Light">
+                    <info>&gt;</info>
+                </song>
+                <song name="When the Dust Settles"/>
+                <song name="Wave Spell"/>
+                <song name="Blu Mood"/>
+                <song name="From Now On"/>
+                <song name="New Dawn New Day"/>
+                <song name="Click Lang Echo"/>
+            </set>
+            <set encore="1" name="second set">
+                <song name="What Is Love?"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/sound-tribe-sector-9/2017/the-warfield-san-francisco-ca-3e1c9e3.html</url>
+    </setlist>
+<setlist id="3be1a0d0" versionId="634a92d3" eventDate="04-12-2017" lastUpdated="2017-12-14T05:24:50.000+0000">
+        <artist mbid="8d07ac81-0b49-4ec3-9402-2b8b479649a2" tmid="806111" name="Sound Tribe Sector 9" sortName="Sound Tribe Sector 9" disambiguation="STS9">
+            <url>https://www.setlist.fm/setlists/sound-tribe-sector-9-7bd69e40.html</url>
+        </artist>
+        <venue id="4bd5f3ae" name="Breathless Punta Cana Resort &amp; Spa">
+            <city id="3510573" name="Punta Cana" state="La Altagracia" stateCode="10">
+                <coords lat="18.5166667" long="-68.3666667"/>
+                <country code="DO" name="Dominican Republic"/>
+            </city>
+            <url>https://www.setlist.fm/venue/breathless-punta-cana-resort-and-spa-punta-cana-dominican-republic-4bd5f3ae.html</url>
+        </venue>
+        <sets>
+            <set name="first set">
+                <song name="F. Word"/>
+                <song name="Totem"/>
+                <song name="Hidden Hand, Hidden Fist"/>
+                <song name="Rise Above, Get Loud"/>
+                <song name="Artifact">
+                    <info>&gt;</info>
+                </song>
+                <song name="Native End">
+                    <info>&gt;</info>
+                </song>
+                <song name="ReEmergence"/>
+                <song name="Poseidon"/>
+            </set>
+            <set name="second set">
+                <song name="Peoples"/>
+                <song name="Circus"/>
+                <song name="MOD"/>
+                <song name="Ramone &amp; Emiglio"/>
+                <song name="Worry No More"/>
+                <song name="Out of this World">
+                    <info>&gt;</info>
+                </song>
+                <song name="Rent"/>
+            </set>
+        </sets>
+        <url>https://www.setlist.fm/setlist/sound-tribe-sector-9/2017/breathless-punta-cana-resort-and-spa-punta-cana-dominican-republic-3be1a0d0.html</url>
+    </setlist>
+</setlists>
