@@ -15,9 +15,9 @@ def song_keygen(size=8, chars=string.ascii_lowercase + string.digits):
 #config for DB connection
 
 config = {
-  'user': 'admin',
-  'password': 'sts94life!',
-  'host': '10.0.0.3',
+  'user': '',
+  'password': '',
+  'host': '0.0.0.0',
   'database': 'sts9',
   'raise_on_warnings': True
 }
